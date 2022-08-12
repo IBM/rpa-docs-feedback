@@ -1,6 +1,7 @@
 ---
 name: Documentation Request Template
-about: Create a report to help us improve
+about: Create a request if you have new ideas, suggestions, or fixes related to IBM
+  RPA Documentation.
 title: "[Component]: Summary"
 labels: ''
 assignees: ''

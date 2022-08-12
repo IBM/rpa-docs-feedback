@@ -1,5 +1,5 @@
 ---
-name: 'Issue: Documentation Request Template (DRT)'
+name: Documentation Request Template
 about: Create a report to help us improve
 title: "[Component]: Summary"
 labels: ''

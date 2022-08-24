@@ -1,3 +1,3 @@
 # MAINTAINERS
 
-Giulianele Alves Barbosa - giulianele.barbosa-wdg@ibm.com
+Giulianele Alves Barbosa - giulianele.barbosa@ibm.com

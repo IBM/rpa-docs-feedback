@@ -78,8 +78,9 @@ Who will consume this content: Is it a Developer, a Business User?
 * REQUIRED: Content goal
 Example: Does this content aims to help the user to create workflows? Does this content aims to give a context about schedules?
 
-* REQUIRED: Description
-Write here the details of your request. We need data enough to create the new documentation after we analyze the request.
+## Request description
+
+Write here the details of your request. We need data enough to create or update the documentation after we analyze your request.
 
 > ⚠ **Important:**
 > This feedback is voluntary. Do not include Confidential information in your issues, or other Personal Information (PI) or Sensitive Personal Information (SPI).

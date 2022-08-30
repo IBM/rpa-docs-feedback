@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-## IBM RPA Releases
+## IBM RPA releases
 
 Select the version for which the change/update is applicable:
 
@@ -29,7 +29,7 @@ Select the version for which the change/update is applicable:
 
 ## Severity
 
-Select the Severity according to the seriousness of the issue, customer impact, and risk exposure. For more information, see [Severity Definitions](https://github.com/IBM/rpa-docs-feedback/wiki/Severity-Definitions).
+Select the Severity according to the seriousness of the issue, customer impact, and risk exposure.
 
 * [ ] Critical
 * [ ] Major
@@ -43,16 +43,21 @@ Select the Severity according to the seriousness of the issue, customer impact, 
 
 ## Link to the topic(s)/page(s) that require an update
 
-> Remove this section if you select "New topic" on the **Documentation Request** section.
-> Add the link to the content in the IBM RPA Docs website.
+> Remove this section if you've selected "New topic" on the **Documentation Request** section.
+
+* [Add the link to the content in the IBM RPA Docs website]()
 
 ## Content Requirements
 
-The following sections is to collect more data about the request and ensure the quality of the information.
+The following sections aim to collect more data about the request and ensure the quality of the information.
+
+These sections are **optional** if you select "Update to an existing topic."
 
 ### Content Type 
 
-Select the type of content that your request fits on. This section is **optional** if you select "Update to an existing topic."
+Select the type of content that your request fits on.
+
+> Remove this section if you've selected "Update to an existing topic" on the **Documentation Request** section.
 
 * [ ] Architecture
 * [ ] How-to/Procedure
@@ -63,11 +68,19 @@ Select the type of content that your request fits on. This section is **optional
 
 ### Content Details 
 
-> This section is **optional** if you select "Update to an existing topic."
+Provide more information about the content.
 
-> OPTIONAL: Persona/Archetype
-> To whom this content is provided: Developer, Business User.
+> Remove this section if you've selected "Update to an existing topic" on the **Documentation Request** section.
 
-### Description
+ * _OPTIONAL:_ Persona/Archetype
+Who will consume this content: Is it a Developer, a Business User?
 
-> REQUIRED: Describe what do you want to do.
+* REQUIRED: Content goal
+Example: Does this content aims to help the user to create workflows? Does this content aims to give a context about schedules?
+
+* REQUIRED: Description
+Write here the details of your request. We need data enough to create the new documentation after we analyze the request.
+
+> ⚠ **Important:**
+> This feedback is voluntary. Do not include Confidential information in your issues, or other Personal Information (PI) or Sensitive Personal Information (SPI).
+> Comments will be reviewed and potentially shared as written and will not be edited.
